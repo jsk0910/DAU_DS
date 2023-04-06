@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: dau-ds
+Version: 0.0.1.0
+Summary: DAU Data Structure Modules
+Home-page: https://github.com/jsk0910/DAU_DS
+Download-URL: https://github.com/jsk0910/DAU_DS/archive/refs/tags/v0.0.1.0.zip
+Author: SangKyunJeon
+Author-email: sangkyun.jeon@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+Dong-A Univ. Data Structure Lecture Modules
