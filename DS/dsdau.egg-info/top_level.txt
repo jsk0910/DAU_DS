@@ -1,7 +1,7 @@
 BST
-hashTable
+hashTable_
 heap_
-list
+list_
 queue_
-sort
-stack
+sort_
+stack_
