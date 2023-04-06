@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     include_package_data = True,
-    name = "dauds",
+    name = "dsdau",
     version = "0.0.1.1",
     description = "DAU Data Structure Modules",
     author = "SangKyunJeon",
